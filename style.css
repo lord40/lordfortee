@@ -1,0 +1,11 @@
+.picture {
+  background-color: blueviolet;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: larger;
+  flex: content;
+  flex-direction: column-reverse;
+}
+
+.fortunescontainer {
+  background-color: brown;
+}
